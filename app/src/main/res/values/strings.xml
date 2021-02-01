@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Happy Birthday</string>
-    <string name="textValue">DevOps GPN</string>
+    <string name="app_name">DevOps GPN</string>
+    <string name="textValue1">DevOps GPN</string>
+    <string name="textValue2">From KG</string>
 </resources>
