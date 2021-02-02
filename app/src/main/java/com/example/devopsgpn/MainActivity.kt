@@ -1,4 +1,4 @@
-package com.example.happybirthday
+package com.example.devopsgpn
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
